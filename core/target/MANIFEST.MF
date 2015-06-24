@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Premain-Class: org.fakereplace.core.TestAgent
+Built-By: Administrator
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.6.0_45
+Boot-Class-Path: fakereplace-1.0.0.Alpha3-SNAPSHOT.jar
+

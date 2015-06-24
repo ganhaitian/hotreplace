@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\AnnotationTarget.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\AttachmentKey.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\AttachmentKeys.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\Attachments.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\Changed.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\ChangedAnnotation.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\ChangedClass.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\ChangedField.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\ChangedMethod.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\ChangedParameter.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\ChangeType.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\ClassChangeAware.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\environment\ChangedClasses.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\environment\CurrentEnvironment.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\environment\Environment.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\api\Extension.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\classloading\ClassIdentifier.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\classloading\ClassLookupManager.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\classloading\ProxyDefinitionStore.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\Agent.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\AgentOption.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\AgentOptions.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\BuiltinClassData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\ClassChangeNotifier.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\ClassLoaderInstrumentation.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\Constants.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\ConstructorArgument.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\DefaultEnvironment.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\TestAgent.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\core\Transformer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\AnnotationBuilder.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\AnnotationDataStore.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\BaseClassData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\ClassData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\ClassDataBuilder.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\ClassDataStore.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\FieldData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\InstanceTracker.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\MemberType.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\MethodData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\data\ModifiedMethod.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\logging\DefaultLogManager.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\logging\Level.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\logging\Logger.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\logging\LogManager.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\ClassManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\ConstructorAccessManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\ConstructorInvocationManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\data\AddedFieldData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\data\ConstructorRewriteData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\data\StaticFieldAccessRewriteData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\data\SubclassVirtualCallData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\data\VirtualToStaticData.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\FieldAccessManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\FinalMethodManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\InstanceFieldManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\Manipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\MethodAccessManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\MethodInvokationManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\MethodReflectionManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\StaticFieldClassFactory.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\StaticFieldDescriptor.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\StaticFieldManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\SubclassVirtualCallManipulator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\util\Boxing.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\util\ClassLoaderFiltered.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\util\ManipulationDataStore.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\util\ManipulationUtils.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\manip\util\MapFunction.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\reflection\AnnotationReflection.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\reflection\ConstructorReflection.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\reflection\FieldAccessor.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\reflection\FieldReflection.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\reflection\MethodReflection.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\reflection\ReflectionInstrumentationSetup.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\AddedClass.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\AnnotationReplacer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\ClassRedefiner.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\FieldReplacer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\MethodReplacer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\notification\ChangedAnnotationImpl.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\notification\ChangedClassImpl.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\notification\ChangedFieldImpl.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\notification\ChangedImpl.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\notification\ChangedMethodImpl.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\notification\CurrentChangedClasses.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\replacement\ReplacementResult.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\runtime\FieldDataStore.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\runtime\FieldReferenceDataStore.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\runtime\MethodIdentifierStore.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\runtime\VirtualDelegator.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\server\FakereplaceProtocol.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\server\FakereplaceServer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\transformation\ClassLoaderTransformer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\transformation\FakereplaceTransformer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\transformation\MainTransformer.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\transformation\UnmodifiedFileIndex.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\AccessFlagUtils.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\DescriptorUtils.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\FileReader.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\JumpMarker.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\JumpUtils.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\NoInstrument.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\NullSafeConcurrentHashMap.java">
+</file>
+<file name="D:\dep\workspace_windhot\fakereplace-master\core\src\main\java\org\fakereplace\util\PrintLn.java">
+</file>
+</checkstyle>
